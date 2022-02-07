@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400&display=swap');
 body {
-  background-color: aliceblue;
+  height: 100vh;
+  background-color: #0093E9;
+  background-image: linear-gradient(240deg, #0093E9 0%, #80D0C7 100%);
+  margin-bottom: 0px;
+  display: flex;
+  margin-top: 0px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Rowdies', cursive;
 }
 #plane {
   float: left;
