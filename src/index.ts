@@ -3,5 +3,6 @@ import { PlaneManager } from "./components/GeneratePlane";
 import { MainGame } from "./components/MainGame";
 
 window.addEventListener("DOMContentLoaded", () => {
+  //Comment
   new MainGame();
 });
